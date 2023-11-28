@@ -1,0 +1,60 @@
+caption{
+    color: blue;
+    font-size: 28px;
+}
+body{
+    background-color: black;
+    color: blueviolet;
+}
+table,th,td{
+    border: 1px solid;
+}
+td, th{
+    padding: 10px;
+    margin: 1px;
+}
+.h{
+    color: white;
+    background-color: gray;
+}
+.k{
+    color: whitesmoke;
+    size: 24px;
+    background-color: rgb(59, 59, 59);
+}
+#MAS{
+    color: cadetblue;
+}
+#AA{
+    color: lightblue;
+}
+#IA{
+    color: lightpink;
+}
+#Project{
+    color: lightgreen;
+}
+#AT{
+    color: aquamarine;
+}
+#AR{
+    color: khaki;
+}
+#da{
+    color: red;
+    font-size: 24px;
+    background-color: blue;
+   
+    
+}
+#e{
+    color: orangered;
+    font-size: 28px;
+}
+#di{
+    color: crimson;
+    background-color: aquamarine;
+    height: 30px;
+    font-size: 24px;
+    
+}
