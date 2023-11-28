@@ -65,4 +65,8 @@ td, th{
     table, th, td {
         font-size: 14px; /* Adjust the font size of table elements for better readability on small screens */
     }
+    #di{
+        width:max;
+        
+    
 }
